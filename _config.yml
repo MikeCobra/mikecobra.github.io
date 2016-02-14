@@ -14,6 +14,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: mikecobra
 github_username: mikecobra
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
