@@ -14,9 +14,9 @@ practices such as "not breaking everything" are followed and dealing with issues
 such as "having too much to do".
 
 In my spare time, I play video games
-([Minecraft](http://minecraft.mikecobra.co.uk) and
+(notably [Minecraft](http://minecraft.mikecobra.co.uk) and
 [League of Legends](http://www.lolking.net/summoner/euw/20240027)), drink wine
-and play around with various tech stuff.
+and play board games and card games (notably A Game of Thrones LCG).
 
 This blog is hosted on [GitHub Pages](https://pages.github.com/) using
 [Jekyll](https://jekyllrb.com/).
