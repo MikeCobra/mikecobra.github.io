@@ -4,8 +4,19 @@ title: About
 permalink: /about/
 ---
 
-My name is Mike Clarke (MikeCobra) and I was a Java Developer before turning to the dark side and becoming an Operations Engineer.
+My name is Mike Clarke (MikeCobra) and I was a Java Developer before turning to
+the dark side and becoming an Operations Engineer.
 
-I am interested in applying development practices to the infrastructure world by means of Configuration Management, Infrastructure as Code and other terms overused at conferences. At the same time, I try and make sure traditional Ops practices such as "not breaking everything" are followed and dealing with issues such as "having too much to do".
+I am interested in applying development practices to the infrastructure world by
+means of Configuration Management, Infrastructure as Code and other terms
+overused at conferences. At the same time, I try and make sure traditional Ops
+practices such as "not breaking everything" are followed and dealing with issues
+such as "having too much to do".
 
-This blog is hosted on [GitHub Pages](https://pages.github.com/) using [Jekyll](https://jekyllrb.com/).
+In my spare time, I play video games
+([Minecraft](http://minecraft.mikecobra.co.uk) and
+[League of Legends](http://www.lolking.net/summoner/euw/20240027)), drink wine
+and play around with various tech stuff.
+
+This blog is hosted on [GitHub Pages](https://pages.github.com/) using
+[Jekyll](https://jekyllrb.com/).
